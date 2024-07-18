@@ -1,0 +1,16 @@
+syntax and runtime error free - 10 pts X
+Implement A* search - 40 pts 
+generate and display 15 x 15 tile environment - 10 pts X
+randomly place unnpathable nodes in 10% of environment - 5 pts X
+Display no path found if it doesnt exist - 10 pts 
+User is able to specify start and goal node - 10 pts X
+The solution path is properly displayed - 10 pts 
+Program uses Manhattan method for heuristic - 5 pts 
+Program shows agent moving along path from start to goal - 5pts 
+
+EXTRA
+need to add try catch so only ints can be input for starting agent and goal X
+
+Things to test
+check what happens if you assign goal to agent position - Works Properly X
+
